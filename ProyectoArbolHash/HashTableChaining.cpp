@@ -1,11 +1,8 @@
+#include <iostream>                    
+#include "HashTableChaining.h"          
 
-#include <iostream>
-#include "HashTableChaining.h"
-
-
-
-void HashTableChainingExample()
+void HashTableChainingExample()         
 {
     std::cout << "[HashTableChainingExample] Ejemplo de demostracion.\n";
-
+    
 }
